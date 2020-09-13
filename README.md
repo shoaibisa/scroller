@@ -1,2 +1,2 @@
 # scroller
-A simple scroller app usin API .
+A simple scroller app using API .
