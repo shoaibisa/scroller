@@ -46,7 +46,7 @@ h1 {
     max-width: 800px;
 }
 
-@media(max-width:400px) {
+@media(max-width:300px) {
     .post {
         max-width: 200px;
     }
